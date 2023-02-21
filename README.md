@@ -33,4 +33,4 @@ We would like to thank our users and contributors for their support and feedback
 This project is not an individual work, it is a group work that we developed as a team during our first year in The University of Manchester, more info could be foun in the website.
 
 
-VISIT US: Symput.com
+VISIT US: (https://www.symput.com/)
